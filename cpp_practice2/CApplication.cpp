@@ -61,6 +61,8 @@ int CApplication::InitSdk()
 	
 	g2_CreateWin(m_winPos.x, m_winPos.y
 		, m_winSize.cx, m_winSize.cy, m_winName.c_str());
+	g2_SetClearColor(0xffffffff );										// 배경화면 클리어 색상설정
+	
 
 	return 0;
 }

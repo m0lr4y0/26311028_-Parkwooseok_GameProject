@@ -17,7 +17,7 @@ protected:
 protected:
 	
 	POINT m_winPos{ 100, 100 };
-	SIZE  m_winSize{ 1200, 600 };
+	SIZE  m_winSize{ 1800, 1000};
 	std::string m_winName = "Hell Shooting";
 
 	SceneGameBegin m_sceneBegin;

@@ -1,0 +1,5 @@
+C:\26311028\26311028_-Parkwooseok_GameProject\cpp_practice2\x64\Debug\D3DCompiler_43.dll
+C:\26311028\26311028_-Parkwooseok_GameProject\cpp_practice2\x64\Debug\d3dx9d_43.dll
+C:\26311028\26311028_-Parkwooseok_GameProject\cpp_practice2\x64\Debug\d3dx10d_43.dll
+C:\26311028\26311028_-Parkwooseok_GameProject\cpp_practice2\x64\Debug\d3dx11d_43.dll
+C:\26311028\26311028_-Parkwooseok_GameProject\cpp_practice2\cpp_practice2\x64\Debug\cpp_prac.B2BC4E0D.Up2Date

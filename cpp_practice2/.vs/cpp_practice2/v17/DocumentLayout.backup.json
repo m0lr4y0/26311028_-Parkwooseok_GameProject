@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\26311028\\26311028_-Parkwooseok_GameProject\\cpp_practice2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDB6255-257F-430B-9A70-1C00AFED807E}|cpp_practice2.vcxproj|C:\\26311028\\26311028_-Parkwooseok_GameProject\\cpp_practice2\\SceneGameBegin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DDB6255-257F-430B-9A70-1C00AFED807E}|cpp_practice2.vcxproj|solutionrelative:SceneGameBegin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDB6255-257F-430B-9A70-1C00AFED807E}|cpp_practice2.vcxproj|C:\\26311028\\26311028_-Parkwooseok_GameProject\\cpp_practice2\\CApplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DDB6255-257F-430B-9A70-1C00AFED807E}|cpp_practice2.vcxproj|solutionrelative:CApplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDB6255-257F-430B-9A70-1C00AFED807E}|cpp_practice2.vcxproj|C:\\26311028\\26311028_-Parkwooseok_GameProject\\cpp_practice2\\CApplication.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DDB6255-257F-430B-9A70-1C00AFED807E}|cpp_practice2.vcxproj|solutionrelative:CApplication.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDB6255-257F-430B-9A70-1C00AFED807E}|cpp_practice2.vcxproj|C:\\26311028\\26311028_-Parkwooseok_GameProject\\cpp_practice2\\SceneGameBegin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DDB6255-257F-430B-9A70-1C00AFED807E}|cpp_practice2.vcxproj|solutionrelative:SceneGameBegin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDB6255-257F-430B-9A70-1C00AFED807E}|cpp_practice2.vcxproj|C:\\26311028\\26311028_-PARKWOOSEOK_GAMEPROJECT\\CPP_PRACTICE2\\PACKAGES\\MICROSOFT.DXSDK.D3DX.9.29.952.8\\BUILD\\NATIVE\\INCLUDE\\D3DX9MATH.INL||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DDB6255-257F-430B-9A70-1C00AFED807E}|cpp_practice2.vcxproj|solutionrelative:PACKAGES\\MICROSOFT.DXSDK.D3DX.9.29.952.8\\BUILD\\NATIVE\\INCLUDE\\D3DX9MATH.INL||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CApplication.cpp",
+              "DocumentMoniker": "C:\\26311028\\26311028_-Parkwooseok_GameProject\\cpp_practice2\\CApplication.cpp",
+              "RelativeDocumentMoniker": "CApplication.cpp",
+              "ToolTip": "C:\\26311028\\26311028_-Parkwooseok_GameProject\\cpp_practice2\\CApplication.cpp",
+              "RelativeToolTip": "CApplication.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-10T02:09:17.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CApplication.h",
+              "DocumentMoniker": "C:\\26311028\\26311028_-Parkwooseok_GameProject\\cpp_practice2\\CApplication.h",
+              "RelativeDocumentMoniker": "CApplication.h",
+              "ToolTip": "C:\\26311028\\26311028_-Parkwooseok_GameProject\\cpp_practice2\\CApplication.h",
+              "RelativeToolTip": "CApplication.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-10T01:58:51.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "d3dx9math.inl",
+              "DocumentMoniker": "C:\\26311028\\26311028_-Parkwooseok_GameProject\\cpp_practice2\\packages\\Microsoft.DXSDK.D3DX.9.29.952.8\\build\\native\\include\\d3dx9math.inl",
+              "RelativeDocumentMoniker": "packages\\Microsoft.DXSDK.D3DX.9.29.952.8\\build\\native\\include\\d3dx9math.inl",
+              "ToolTip": "C:\\26311028\\26311028_-Parkwooseok_GameProject\\cpp_practice2\\packages\\Microsoft.DXSDK.D3DX.9.29.952.8\\build\\native\\include\\d3dx9math.inl",
+              "RelativeToolTip": "packages\\Microsoft.DXSDK.D3DX.9.29.952.8\\build\\native\\include\\d3dx9math.inl",
+              "ViewState": "AgIAACAFAAAAAAAAAAAYwF8FAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-10T01:42:39.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SceneGameBegin.h",
+              "DocumentMoniker": "C:\\26311028\\26311028_-Parkwooseok_GameProject\\cpp_practice2\\SceneGameBegin.h",
+              "RelativeDocumentMoniker": "SceneGameBegin.h",
+              "ToolTip": "C:\\26311028\\26311028_-Parkwooseok_GameProject\\cpp_practice2\\SceneGameBegin.h",
+              "RelativeToolTip": "SceneGameBegin.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-10T01:06:11.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SceneGameBegin.cpp",
+              "DocumentMoniker": "C:\\26311028\\26311028_-Parkwooseok_GameProject\\cpp_practice2\\SceneGameBegin.cpp",
+              "RelativeDocumentMoniker": "SceneGameBegin.cpp",
+              "ToolTip": "C:\\26311028\\26311028_-Parkwooseok_GameProject\\cpp_practice2\\SceneGameBegin.cpp*",
+              "RelativeToolTip": "SceneGameBegin.cpp*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-10T00:39:04.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
