@@ -103,6 +103,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <DisableSpecificWarnings>26495</DisableSpecificWarnings>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -129,12 +130,14 @@
   <ItemGroup>
     <ClCompile Include="CApplication.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="play.cpp" />
     <ClCompile Include="SceneGameBegin.cpp" />
     <ClCompile Include="SceneGamePlay.cpp" />
     <ClCompile Include="SceneGameResult.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CApplication.h" />
+    <ClInclude Include="play.h" />
     <ClInclude Include="SceneGameBegin.h" />
     <ClInclude Include="SceneGamePlay.h" />
     <ClInclude Include="SceneGameResult.h" />
